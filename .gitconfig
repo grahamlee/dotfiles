@@ -1,0 +1,5 @@
+[user]
+	name = Graham Lee
+	email = mail@grahamlee.com
+[core]
+	editor = emacs
